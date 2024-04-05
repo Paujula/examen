@@ -1,0 +1,59 @@
+fieldset{
+    background-color: #FFEEEE;
+    font-family: Arial;
+    font-size: 12px;
+    padding: 17px;
+    width: 1210px;
+    margin: 0 auto;
+    
+    
+}
+
+h1{
+    text-align:center;
+}
+
+button[type="submit"],
+     button[type="reset"]{
+    padding: 15px 40px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+input[type="text"],
+   input[type="date"],
+     select{
+    width:300% ;
+    padding: 7px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+label{
+    margin-left: 20px;
+    margin-right: 390px;
+}
+
+
+table.list{
+    margin:0 auto;
+}
+
+select.select{
+    
+    padding: 10px;
+    width:400%;
+    border-radius:5px;
+     border:1px  solid #ccc
+
+}
+input[type="text"].text,
+   input[type="date"].date{
+    width:400%;
+     padding: 10px;
+     border-radius:5px;
+     border:1px  solid #ccc
+}
+label.label{
+    margin-right:70px;
+    margin-left:30px;
+}
